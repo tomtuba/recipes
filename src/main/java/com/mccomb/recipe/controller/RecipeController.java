@@ -5,10 +5,13 @@
  */
 package com.mccomb.recipe.controller;
 
+import org.springframework.stereotype.Controller;
+
 /**
  *
  * @author tmccomb613
  */
+@Controller
 public class RecipeController {
     
 }
