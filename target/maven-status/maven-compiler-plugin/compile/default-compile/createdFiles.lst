@@ -1,0 +1,4 @@
+com/mccomb/recipe/config/MyWebInitializer.class
+com/mccomb/recipe/controller/HelloController.class
+com/mccomb/recipe/config/SpringWebConfig.class
+com/mccomb/recipe/controller/RecipeController.class

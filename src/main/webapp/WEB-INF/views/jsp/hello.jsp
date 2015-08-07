@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project @JavaConfig</a>
+		<a class="navbar-brand" href="#">My Recipe Site</a>
 	</div>
   </div>
 </nav>
@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; Mkyong.com 2015</p>
+	<p>Are you hungry yet?</p>
   </footer>
 </div>
  
